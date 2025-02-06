@@ -1,3 +1,3 @@
-# Proyecto-sprint-6
+# Correlación entre la distancia recorrida y el precio de un carro en EUA
 Este proyecto recopila un conjunto de datos sobre anuncios de venta de carros mediante un histograma que muestra el número de carros que han recorrido una  distancia específica, lo que permite identificar las distancias más comunes entre este conjunto de datos. Además, se elabora un gráfico de dispersión que evidencia la relación entre la distancia recorrida por los carros y su precio, mostrando la influencia que tiene una variable sobre la otra, logrando entender cómo la distancia recorrida impacta en el precio de los carros.
 Los resultados se muestran en la siguiente página web: https://proyecto-sprint-6-cnga.onrender.com
